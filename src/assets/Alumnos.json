@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Alumno1",
+    "puntuacion": "10"
+  },
+  {
+    "id": "2",
+    "name": "Alumno2",
+    "puntuacion": "10"
+  },
+  {
+    "id": "3",
+    "name": "Alumno3",
+    "puntuacion": "10"
+  },
+  {
+    "id": "4",
+    "name": "Alumno4",
+    "puntuacion": "10"
+  },
+  {
+    "id": "5",
+    "name": "Alumno5",
+    "puntuacion": "10"
+  },
+  {
+    "id": "6",
+    "name": "Alumno6",
+    "puntuacion": "10"
+  },
+  {
+    "id": "7",
+    "name": "Alumno7",
+    "puntuacion": "10"
+  },
+  {
+    "id": "8",
+    "name": "Alumno8",
+    "puntuacion": "10"
+  },
+  {
+    "id": "9",
+    "name": "Alumno9",
+    "puntuacion": "10"
+  },
+  {
+    "id": "10",
+    "name": "Alumno10",
+    "puntuacion": "10"
+  }
+]

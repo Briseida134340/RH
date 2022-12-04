@@ -1,0 +1,26 @@
+<p-card style="padding: 10px;">
+  <h1 style="text-align:center ;">Calificaciones</h1>
+  <p-table [value]="Alumnos">
+    <ng-template pTemplate="header">
+      <tr>
+        <th></th>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Puntuacion</th>
+
+      </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-Alumnos>
+      <tr>
+        <td>
+          <p-checkbox name="groupname" value="val1"></p-checkbox>
+        </td>
+        <td>{{Alumnos.id}}</td>
+        <td>{{Alumnos.name}}</td>
+        <td>{{Alumnos.puntuacion}}</td>
+      </tr>
+    </ng-template>
+  </p-table>
+  <button type="button" pButton label="Test button"
+    class="p-button-secondary flex align-items-center justify-content-center"></button>
+</p-card>
